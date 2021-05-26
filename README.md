@@ -1,8 +1,6 @@
-### Hi there 👋
-
+## Hi! I am Ganesh Goel 👋
+###Personal Portfolio: https://GaneshGoel.github.io/
 <!--
-**GaneshGoel/GaneshGoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
