@@ -1,5 +1,5 @@
 ## Hi! I am Ganesh Goel 👋
-### Personal Portfolio: https://GaneshGoel.github.io/
+### Personal Portfolio: [Portfolio](https://GaneshGoel.github.io/)
 
 - 🔭 I’m currently working on Deep neural networks.
 - 👯 I’m looking to collaborate on Deep neural networks projects.
